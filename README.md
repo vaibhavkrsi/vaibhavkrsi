@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [CChat](https://cchat.online/)
-
+- 🔭 I’m currently working on Doctor application System (Done) and Netflix Clone (MERN) stack.
+ 
 - 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on [CChat](https://cchat.online/)
 
 - 👨‍💻 All of my projects are available at [https://vaibhavkumarsingh.netlify.app/](https://vaibhavkumarsingh.netlify.app/)
 
@@ -13,7 +11,6 @@
 
 - 📫 How to reach me **vaibhavrishisingh@gmail.com**
 
-- 📄 Know about my experiences [https://vaibhavkumarsingh.netlify.app/packages/Vaibhav_Kumar_Singh.pdf](https://vaibhavkumarsingh.netlify.app/packages/Vaibhav_Kumar_Singh.pdf)
 
 - ⚡ Fun fact **I'm sarcastic**
 
