@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **vaibhavrishisingh@gmail.com**
 
-
-- ⚡ Fun fact **I'm sarcastic**
-
 -  For UI/UX design See this [GrowLift](https://growlift.in/)
 
 <h3 align="left">Connect with me:</h3>
